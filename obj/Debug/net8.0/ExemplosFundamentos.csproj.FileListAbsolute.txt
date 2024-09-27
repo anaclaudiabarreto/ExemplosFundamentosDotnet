@@ -1,0 +1,28 @@
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfo.cs
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+D:\Projetos DIO\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.exe
+D:\Projetos DIO\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.deps.json
+D:\Projetos DIO\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.runtimeconfig.json
+D:\Projetos DIO\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.pdb
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\refint\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.pdb
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
+D:\Projetos DIO\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos - Backup\bin\Debug\net8.0\ExemplosFundamentos.exe
+D:\Projetos DIO\ExemplosFundamentos - Backup\bin\Debug\net8.0\ExemplosFundamentos.deps.json
+D:\Projetos DIO\ExemplosFundamentos - Backup\bin\Debug\net8.0\ExemplosFundamentos.runtimeconfig.json
+D:\Projetos DIO\ExemplosFundamentos - Backup\bin\Debug\net8.0\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos - Backup\bin\Debug\net8.0\ExemplosFundamentos.pdb
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfo.cs
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\refint\ExemplosFundamentos.dll
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.pdb
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
+D:\Projetos DIO\ExemplosFundamentos - Backup\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
